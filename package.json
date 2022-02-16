@@ -4,7 +4,8 @@
   "description": "A website created to get a better understadning how to work as a front-end developer, created for a lesson for a class at Lernia polytechnic",
   "main": "index.html",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "cypress": "cypress open"
   },
   "author": "Marcus Larsson",
   "license": "ISC",
